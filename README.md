@@ -3,3 +3,6 @@
 
 API KEY 발급
 https://developers.kakao.com/
+
+사이트
+https://sthyeon.github.io/the_center_of_gravity/

@@ -1,5 +1,6 @@
-# This is a kakao map that uses the center of gravity
-장소를 기준으로 무게중심 구하기
+# Where are we meeting~?
+This is a kakao map that uses the center of gravity
+무게중심을 이용하여 중심을 찾아주는 카카오맵
 
 ScreenShot
 ----------
